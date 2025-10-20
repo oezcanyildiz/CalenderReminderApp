@@ -1,7 +1,7 @@
 # 🕒 Java Reminder App (Konsole)
 
 Eine einfache, aber gut strukturierte **Java-Konsolenanwendung**, mit der Termine (Reminders) erstellt, angezeigt, gelöscht und dauerhaft in einer CSV-Datei gespeichert werden können.  
-Ideal für Einsteiger, die Java lernen und gleichzeitig sauberen, objektorientierten Code schreiben möchten.
+Diese App ist Ideal für Einsteiger, die Java lernen und gleichzeitig sauberen, objektorientierten Code schreiben möchten. Mir hat es spaß gemacht :) 
 
 ---
 
@@ -13,7 +13,7 @@ Ideal für Einsteiger, die Java lernen und gleichzeitig sauberen, objektorientie
 - [Anwendung](#-anwendung)
 - [Beispiel](#-beispiel)
 - [Verbesserungsvorschläge](#-verbesserungsvorschläge)
-- [Lizenz](#-lizenz)
+
 
 ---
 
