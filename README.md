@@ -118,17 +118,19 @@ Zahnarzt;Kontrolle;2025-10-22;08:30
 Meeting;Projektbesprechung;2025-10-23;14:00
 
 
-🚀 Verbesserungsvorschläge 🧠💻🧪
+------>>> 🚀 Verbesserungsvorschläge 🧠💻🧪 <---------
 
 🧠 Eingabevalidierung
 
 Datum- und Uhrzeitprüfung mit try-catch, damit das Programm nicht abstürzt, wenn falsche Werte eingegeben werden.
 (z. B. „2025-13-99“ oder „08:75“)
 
+
 🧼 Zentraler Scanner
 
 Statt in jeder Klasse einen neuen Scanner zu öffnen, einen Scanner in Main erstellen und an alle Klassen weitergeben.
 ➝ Stabiler, weniger Fehler, bessere Speicherverwaltung.
+
 
 🧭 Service-Schicht
 
@@ -137,11 +139,13 @@ Business-Logik (Hinzufügen, Löschen, Validieren) aus UI-Klassen herauslösen
 In eine eigene ReminderService-Klasse verschieben.
 ➝ Bessere Testbarkeit, leichtere Erweiterung (GUI, REST API, Tests).
 
+
 📊 Sortierung & Suche
 
 Termine nach Datum/Uhrzeit sortieren.
 
 Suchfunktion nach Titel oder Datum einbauen.
+
 
 🪄 Zusätzliche Felder
 
@@ -149,11 +153,13 @@ z. B. Status: offen, erledigt, verschoben.
 
 Automatische Markierung abgelaufener Termine.
 
+
 💻 GUI oder Web-Interface
 
 Swing / JavaFX für Desktop-UI
 
 Spring Boot REST API als Webservice.
+
 
 🛢️ Datenbank statt CSV
 
@@ -161,15 +167,18 @@ Persistenz mit MySQL oder SQLite für größere Datenmengen und mehrere Benutzer
 
 Sauberere Abfragen, bessere Datenintegrität.
 
+
 🧪 Tests
 
 Unit-Tests für Speicher- und Serviceklassen.
 
 Fehler werden früh erkannt, Code wird stabiler.
 
+
 📜 Lizenz
 
 Dieses Projekt ist frei verwendbar und kann beliebig erweitert oder verändert werden.
+
 
 
 👨‍💻 Autor
