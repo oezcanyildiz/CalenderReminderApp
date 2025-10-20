@@ -39,15 +39,25 @@ Diese App ist Ideal für Einsteiger, die Java lernen und gleichzeitig sauberen, 
 ## 🗂️ Projektstruktur
 
 src/
+
 ├── main/
+
 │ ├── Main.java // Einstiegspunkt, Menüsteuerung
+
 │ ├── Reminder.java // Datenmodell
+
 │ ├── IBearbeitung.java // Interface für Termin-Operationen
+
 │ ├── TerminAdd.java // Logik für Termin hinzufügen
+
 │ ├── TerminListing.java // Logik für Termin anzeigen
+
 │ ├── TerminDelete.java // Logik für Termin löschen
+
 │ ├── Speicherung.java // CSV-Lese- und Schreiblogik
+
 │
+
 └── termine.csv // CSV-Datei mit gespeicherten Terminen
 
 ---
